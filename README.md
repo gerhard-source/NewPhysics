@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerhard-source
-- 👀 I am interested physics,
+- 👀 I am interested on physics,
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me p@tronsoft.de
 
