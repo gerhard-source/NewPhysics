@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gerhard-source
-- 👀 I am interested in the software and hardware development of electronic devices with Rasperry Pi, Orange Pi, esp32, esp8266.
-- 🌱 I’m currently learning python, Micropython
-- 💞️ I’m looking to collaborate on Measuring and control devices for solar systems.
+- 👀 I am interested physics,
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me p@tronsoft.de
 
 <!---
