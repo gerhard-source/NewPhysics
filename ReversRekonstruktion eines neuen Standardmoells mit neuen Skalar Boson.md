@@ -136,7 +136,7 @@ Simulationen bestätigen das: In N-Body- oder Wellen-basierten Codes (z. B. ax-g
 
 ### Abbildungen
 
-https://github.com/gerhard-source/NewPhysics/blob/main/significance_projection.png
+![Konvergenz-Plot](./significance_projection.png)/
 **Abbildung 1: Entdeckungspotential der 1 TeV Skalar-Resonanz**
 3 pt
 A TeV-scale Scalar Lepton Partner with Naturally Suppressed Couplings
