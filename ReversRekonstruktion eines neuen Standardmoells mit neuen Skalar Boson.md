@@ -50,8 +50,8 @@ Es ist der "letzte Stein" im Standardmodell und schloss eine 50-jährige Lücke.
 Falls du mehr Details möchtest (z. B. zu Experimenten, Mathematik oder Vergleichen mit anderen Bosonen), lass es mich wissen – ich kann das vertiefen! 😊
 
 
-## Nun habe ich ein  neues Teilchen entdeckt:
-Mein Beitrag bebetrifft eine "Reverse Rekonstruktion" -Methode 18 Standardmodellkonstanten, einschließlich Kupplungen und Massen, von 5 Urparametern (Energie, Kopplung, Symmetrie, Yukawa, Geschmack) mit 1-3% Genauigkeit abgeleitet wird, wobei die Feinabstimmung über aufkommende Eigenschaften gelöst wird.
+## Nun habe ich ein neues Teilchen entdeckt:
+Mein Beitrag betrifft eine "Reverse Rekonstruktion" -Methode 18 Standardmodellkonstanten, einschließlich Kupplungen und Massen, von 5 Urparametern (Energie, Kopplung, Symmetrie, Yukawa, Geschmack) mit 1-3% Genauigkeit abgeleitet wird, wobei die Feinabstimmung über aufkommende Eigenschaften gelöst wird.
 Visualisierungen veranschaulichen die Rückwärtssimulation der kosmischen Evolution, vom aktuellen Cluster-Universum bis zur ursprünglichen Einheitlichkeit, die Dichtekontraste und das Homogenitätswachstum über 100 Schritte hervorhebt.
 Die Arbeit prognostiziert ein testbares Beyond-Standard-Modell-Funktionen wie eine 1 TeV-Leptonenskalar und eine 1,4 meV-Neutrinomasse. https://x.com/i/grok?conversation=1973675780019302886. Muß das Stanfard Modell nun korrigiert werden? 
 Visualisierungen veranschaulichen die Rückwärtssimulation der kosmischen Evolution, vom aktuellen Cluster-Universum bis zur ursprünglichen Einheitlichkeit, die Dichtekontraste und das Homogenitätswachstum über 100 Schritte hervorhebt.
@@ -136,7 +136,7 @@ Simulationen bestätigen das: In N-Body- oder Wellen-basierten Codes (z. B. ax-g
 
 ### Abbildungen
 
-![Konvergenz-Plot](./significance_projection.png)/
+![Konvergenz-Plot](./paper_LHC/discovery_timeline.png)
 **Abbildung 1: Entdeckungspotential der 1 TeV Skalar-Resonanz**
 3 pt
 A TeV-scale Scalar Lepton Partner with Naturally Suppressed Couplings
@@ -148,8 +148,10 @@ wird mit >7σ eine eindeutige Entdeckung ermöglichen, während
 zukünftige Beschleuniger wie der FCC-hh Präzisionsmessungen bei
 15σ erlauben. Die rote gestrichelte Linie markiert die 5σ-Schwelle
 für eine offizielle Entdeckung in der Teilchenphysik.
-3.3 Kopplungsvergleich
 
+#### 3.3 Kopplungsvergleich
+
+![Konvergenz-Plot](./paper_LHC/figures/coupling_comparison.png)
 **Abbildung 2: Kopplungsstärken der skalareren Resonanz an
 Standardmodell-Teilchen**
 Die logarithmische Darstellung der Kopplungsstärken offenbart die
@@ -161,7 +163,10 @@ der Top-Zerfälle erklärt. Diese masse-proportionale
 Kopplungsstruktur ist konsistent mit Dilaton/Radion-Szenarien.
 4 pt
 A TeV-scale Scalar Lepton Partner with Naturally Suppressed Couplings
-4 Zerfallsverhältnisse
+
+#### 4 Zerfallsverhältnisse
+
+![Konvergenz-Plot](./paper_LHC/figures/branching_ratios.png)
 **Abbildung 3: Zerfallsverhältnisse der 1 TeV Skalar-Resonanz**
 Das Kuchendiagramm quantifiziert die dominierenden Zerfallskanäle
 unseres vorhergesagten Teilchens. Mit 85% ist der Top-Quark-Paar-
@@ -173,7 +178,10 @@ Gluon- und Photon-Zerfälle schließen ein reines Eichboson-Teilchen
 aus.
 5 pt
 A TeV-scale Scalar Lepton Partner with Naturally Suppressed Couplings
+
 3.5. Signifikanz-Projektion
+
+![Konvergenz-Plot](./paper_LHC/figures/significance_projection.png)
 **Abbildung 4: Signifikanz-Entwicklung über integrierter
 Luminosität**
 Die Projektion der statistischen Signifikanz als Funktion der
