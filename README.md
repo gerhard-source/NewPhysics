@@ -1,4 +1,4 @@
-- 👋 Hi, I love physics and an old physicist from the University of Greifswald. My name is Denkrebell on X, DenkRebellx on Mastodon.social.
+- 👋 Hi, I love physics and an old physicist from the University Greifswald. My name is Denkrebell on X, DenkRebellx on Mastodon.social.
 - 👀 I am interested on physics,
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me p@tronsoft.de
