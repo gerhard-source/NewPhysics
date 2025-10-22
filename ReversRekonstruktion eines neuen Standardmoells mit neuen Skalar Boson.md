@@ -4,7 +4,7 @@
 
 ### Das Higgs-Boson: Eine Erklärung
 
-Zuerst einmal: Ich nehme an, du meinst das **Higgs-Boson** (nicht "Higs Boson" – ein kleiner Tippfehler, der schnell passieren kann). Es ist eines der faszinierendsten Teilchen der modernen Physik und ein zentraler Baustein des Standardmodells der Teilchenphysik. Ich erkläre dir hier die wichtigsten **Eigenschaften** und **physikalischen Effekte** Schritt für Schritt, so einfach wie möglich, aber mit den wesentlichen Details.
+Das **Higgs-Boson** ist eines der faszinierendsten Teilchen der modernen Physik und ein zentraler Baustein des Standardmodells der Teilchenphysik. Ich erkläre dir hier die wichtigsten **Eigenschaften** und **physikalischen Effekte** Schritt für Schritt, so einfach wie möglich, aber mit den wesentlichen Details.
 
 #### Was ist das Higgs-Boson überhaupt?
 Das Higgs-Boson ist ein elementares Teilchen, das 1964 theoretisch von Physikern wie Peter Higgs, François Englert und anderen vorhergesagt wurde. Es wurde erst 2012 am CERN (Europäische Organisation für Kernforschung) im Large Hadron Collider (LHC) experimentell nachgewiesen. Es ist keine "Teilchen" im klassischen Sinne, sondern eine Erregung des **Higgs-Feldes**, das das gesamte Universum durchdringt – ähnlich wie Wellen auf einem Wasseroberfläche.
