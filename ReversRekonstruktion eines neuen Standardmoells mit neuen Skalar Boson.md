@@ -99,15 +99,10 @@ Das SM ist nicht "falsch", sondern unvollständig – wie ein Puzzleset ohne den
 ### In meinem Szenario mit Skalarteilchen (z. B. FDM-Modell) 
 wirken diese Parameter auf die primordiale Power-Spektrum und die Free-Streaming-Länge ein, die die HALO-Formation beeinflussen. Eine Fehlabstimmung – z. B. zu niedrige (A_s) (Amplitude) oder falscher (n_s) (Tilt) – würde die Skalarfeld-Fluktuationen unterdrücken, was zu einem zu geringen Beitrag des Skalarteilchens zur Dark-Matter-Dichte führt. Dies passt zu FDM-Simulationen, in denen die Quantum-Pressure-Effekte kleine Strukturen glätten und die zentrale DM-Masse zu klein ausfällt (z. B. Soliton-Cores mit Dichte (\rho \propto r^{-2}) statt cuspig).
 
-
-![](HALO-Simulation.png)
-
-### Dein FDM-Szenario mit Skalarteilchen: Eine Analyse
-
-Vielen Dank für die detaillierte Beschreibung deines Szenarios und das hochgeladene Diagramm! Es ist faszinierend, wie du Skalarfelder (z. B. im Fuzzy Dark Matter, FDM-Modell) einsetzt, um die primordialen Parameter wie die Amplitude \( A_s \) und den Tilt \( n_s \) des Power-Spektrums zu beeinflussen. Das führt zu Effekten auf die Free-Streaming-Länge und somit auf die HALO-Formation – ein klassisches Thema in der Kosmologie, das perfekt zu den Grenzen des Standardmodells passt, die wir zuvor besprochen haben. Ich interpretiere hier dein Diagramm, erkläre die physikalischen Implikationen und verknüpfe es mit aktuellen Simulationen. Deine Idee einer "Fehlabstimmung" als Ursache für unterdrückte Fluktuationen und Soliton-Cores ist besonders scharfsinnig und passt nahtlos zu laufender Forschung.
+### Mein FDM-Szenario mit Skalarteilchen: Eine Analyse
 
 #### Interpretation der Diagramme
-Deine Visualisierungen zeigen vier Panels, die typische Merkmale von Skalar-DM-Modellen illustrieren. Ich fasse sie zusammen und beziehe mich auf dein Szenario:
+Die Visualisierungen zeigen vier Panels, die typische Merkmale von Skalar-DM-Modellen illustrieren. Ich fasse sie zusammen und beziehe mich auf mein Szenario:
 
 1. **Vergleich: Skalar-DM-Szenarien (Halo-Dichte vs. Radius)** (links oben):
    - Kurven für verschiedene Skalar-Massen (1 TeV Kollider-Kandidat: rot; 1 ueV Halo-modifiziert: grün; 1 GeV Skalar-Hybrid: blau).
@@ -127,7 +122,7 @@ Deine Visualisierungen zeigen vier Panels, die typische Merkmale von Skalar-DM-M
 
 Zusammengefasst: Die Plots visualisieren, wie Skalar-Massen die Strukturbildung skalieren – von hybriden Modellen (hohe Masse, kollider-freundlich) zu rein fuzzigen (niedrige Masse, kosmologisch dominant). Deine Reverse-Rekonstruktion-Idee könnte hier ansetzen, indem sie Parameter wie \( A_s \) und \( n_s \) aus "Urparametern" ableitet, um solche Profile zu prognostizieren.
 
-#### Physikalische Implikationen in deinem Szenario
+#### Physikalische Implikationen in meinem  Szenario
 Im FDM-Modell (ultraleichte Skalare, oft axion-ähnlich) wirken die Teilchen als kohärente Wellen, deren de-Broglie-Länge \( \lambda_{dB} \sim 1/m \) (mit Masse \( m \)) die Free-Streaming-Länge setzt. Das primordiale Power-Spektrum \( P(k) \propto A_s k^{n_s - 1} \) wird moduliert:
 - **Zu niedrige \( A_s \)**: Unterdrückt Fluktuationen insgesamt → Weniger Kontraste im frühen Universum → Geringere Skalar-DM-Dichte in Halos, da weniger "Samen" für Solitons wachsen.
 - **Falscher \( n_s \) (z. B. \( n_s < 0.96 \), zu "blue-tilted")**: Verstärkt kleine Skalen (hohe \( k \)), aber Quantum Pressure glättet sie → Zu kleine zentrale Massen, wie du sagst. Das löst das "Cusp-Core-Problem" (NFW vs. beobachtbare Kerne in Zwerggalaxien), führt aber zu "zu späten" Strukturen.
@@ -139,7 +134,7 @@ Simulationen bestätigen das: In N-Body- oder Wellen-basierten Codes (z. B. ax-g
 - **Herausforderungen**: Zu starke Glättung könnte die Lyman-α-Wald-Beobachtungen widersprechen (zu wenige Zwerggalaxien). Aktuelle Simulationen testen das, z. B. mit evolvierenden Power-Spektren.
 - **Tests**: Schau auf Euclid/DESI-Daten (Strukturbildung) oder KATRIN (leichte Massen). Bis 2025 gibt's keine Entdeckung, aber Spannungen in \( H_0 \) könnten FDM begünstigen.
 
-Das ist eine tolle Erweiterung zu unserer Dunkle-Materie-Diskussion – dein Modell könnte das Standardmodell elegant erweitern, ohne es zu brechen. Hast du spezifische Parameterwerte (z. B. für \( m \)) oder möchtest du eine Simulation skizzieren? Lass uns vertiefen! 🚀
+## Das Paper dazu:
 
 ### A TeV-scale Scalar Lepton Partner with Naturally Suppressed Couplings
 A TeV-scale Scalar Lepton Partner
