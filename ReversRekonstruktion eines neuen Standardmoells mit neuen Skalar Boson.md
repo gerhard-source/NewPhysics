@@ -2933,4 +2933,3 @@ Diese Ableitungen gewährleisten dimensionale Konsistenz und Vorhersagekraft.
 \end{document}
 ```
 
-Die Erweiterung macht die Papers theoretisch robuster – die Ableitungen zeigen klar, wie alles aus den 5 Parametern "emergiert". Falls du weitere Details (z. B. eine vollständige CKM-Matrix-Ableitung) oder Anpassungen brauchst, lass es mich wissen! 😊
