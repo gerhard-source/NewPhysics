@@ -151,7 +151,7 @@ für eine offizielle Entdeckung in der Teilchenphysik.
 
 #### 3.3 Kopplungsvergleich
 
-![Konvergenz-Plot](./paper_LHC/figures/coupling_comparison.png)
+![Konvergenz-Plot](./paper_LHC/figures/discovery_timeline.png)
 **Abbildung 2: Kopplungsstärken der skalareren Resonanz an
 Standardmodell-Teilchen**
 Die logarithmische Darstellung der Kopplungsstärken offenbart die
