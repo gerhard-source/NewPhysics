@@ -24,7 +24,7 @@ Eine Reverse-Rekonstruktions-Methode leitet die 18 SM-Konstanten aus 5 primordia
 - **Visuals**: Konvergenz-Plots, GW-Dämpfung, kosmologische Anteile (siehe `/figs/`).
 
 ### Installation & Ausführung
-1. Klonen: `git clone https://github.com/DenkRebell/reverse-reconstruction-physics.git`
+1. Klonen: `git clone https://github.com/reverse-reconstruction-physics.git`
 2. Abhängigkeiten: `pip install sympy numpy matplotlib`
 3. Ausführen: `python reverse_reconstruction.py` – Erzeugt Outputs und Plots.
 
