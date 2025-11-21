@@ -138,7 +138,7 @@ dazu braucht es zwingend Materiefelder und dynamische Quantentheorie.
 
 # Literatur:
 
-# # Hier ist eine umfassende Literaturliste zur zeitlichen Rücktransformation des Universums:
+## Hier ist eine umfassende Literaturliste zur zeitlichen Rücktransformation des Universums:
 
 ## Grundlegende theoretische Physik
 
